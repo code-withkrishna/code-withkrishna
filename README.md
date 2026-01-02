@@ -2,7 +2,7 @@
 
 ## Hi, I'm Krishna 👋
 
-🎓 First-year student at NIAT  
+🎓 First-year student at Nxtwave Institute of Advanced Technologies
 💻 Learning Python & Web Development  
 🌱 Interested in Open Source & GSoC  
 🚀 Currently learning Git & GitHub  
