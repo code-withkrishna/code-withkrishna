@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**code-withkrishna/code-withkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi, I'm Krishna 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 First-year student at NIAT  
+💻 Learning Python & Web Development  
+🌱 Interested in Open Source & GSoC  
+🚀 Currently learning Git & GitHub  
+
+### Skills
+- Python (Basics)
+- HTML, CSS
+- Git & GitHub (Learning)
+
+### Goals
+- Contribute to open source projects
+- Participate in Google Summer of Code
+- Improve problem-solving skills
+
+📫 Reach me at: ramakrishnaravilisetty@gmail.com
