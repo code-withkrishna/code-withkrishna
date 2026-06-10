@@ -1,21 +1,47 @@
+# Hi, I'm Krishna 👋
 
+AI/ML Engineering Student | AI Intern @ FlyRank AI
 
-## Hi, I'm Krishna 👋
+I build AI-powered applications, multi-agent systems, healthcare intelligence platforms, and data-driven products.
 
-🎓 First-year student at Nxtwave Institute of Advanced Technologies
+## Featured Projects
 
-💻 Learning Python & Web Development  
-🌱 Interested in Open Source & GSoC  
-🚀 Currently learning Git & GitHub  
+### CompetIQ
 
-### Skills
-- Python (Basics)
-- HTML, CSS
-- Git & GitHub (Learning)
+Multi-Agent Competitive Intelligence Platform
 
-### Goals
-- Contribute to open source projects
-- Participate in Google Summer of Code
-- Improve problem-solving skills
+* 7 parallel data sources
+* Dual-agent architecture
+* 6.7× faster analysis
 
-📫 Reach me at: ramakrishnaravilisetty@gmail.com
+### TRACE
+
+Sustainability Intelligence Platform
+
+* 3rd Place Winner
+* Judge Score: 8.1/10
+* Built for Indian SME manufacturers
+
+### MedExplainer Pro
+
+AI Healthcare Intelligence Platform
+
+* FHIR R4 Compliant
+* MCP Architecture
+* Healthcare AI workflows
+
+## Tech Stack
+
+Python • TypeScript • Next.js • PostgreSQL • Supabase • Streamlit • AI/ML • LLMs • Multi-Agent Systems
+
+## Currently
+
+* AI Intern @ FlyRank AI
+* Building AI applications and automation systems
+* Participating in hackathons and engineering projects
+
+## Connect With Me
+
+LinkedIn: [www.linkedin.com/in/ramakrishna-ravilisetty]
+
+Email: [ramakrishnaravilisetty@gmail.com](mailto:ramakrishnaravilisetty@gmail.com)
